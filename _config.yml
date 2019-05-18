@@ -1,0 +1,62 @@
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Roy Abraham
+title: Systems Administrator
+email: roy.abraham@gmail.com
+#website: www.github.com/sproogen/resume-theme
+
+# Social links
+# twitter_username: facespics
+github_username:  royabraham
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: royabraham
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi! My name's Roy & I'm a system administrator based in Vancouver,BC. I believe in continous improvement & recently went back to school to level up my skillset.
+  I will be actively seeking new opportunities in October 2019.
+  
+   
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my passion for technology, some of my other interests are:
+   - Cooking
+   - Traveling
+   - Yoga
+   - Cycling
+   
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
