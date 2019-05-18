@@ -1,12 +1,12 @@
-- name: BCIT Technical Projects
-  link: github.com/sproogen
+- name: Technical Projects
+#  link: github.com/sproogen
   github: sproogen/resume-theme
   quote: >
-    Network Administrator & Security Projects
+    BCIT Network Administrator & Security Projects
   description: | # this will include new lines to allow paragraphs
-    - Created a virtual routed network environment from scratch using <mark>Oracle VirtualBox</mark>.
+    - Created a virtual routed network environment from the ground up using <mark>Oracle VirtualBox</mark>.
     - Encrypted communication between servers using self-signed certificates.
-    - Installed & configured a virtualized <mark>Windows 2016</mark>/ <mark>Centos Linux 7</mark> network for SMB consisting of centralized user authentication, routing & switching infrastructure, SAN and NAS storage back-ends.
+    - Installed & configured a virtualized <mark>Windows 2016</mark> / <mark>Centos Linux 7</mark> network for SMB consisting of centralized user authentication, routing & switching infrastructure, SAN and NAS storage back-ends.
     - Implemented a complete open source messaging solution including SMTP services, webmail, and central user authentication.
     - Implemented Office 365 with federated authentication through AD Federation Services
     - Configured scalable and fault tolerant web services with nginx, mongodb & keepalived

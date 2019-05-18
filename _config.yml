@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Roy Abraham
-title: Systems Administrator
+title: System Administrator | Available for new opportunities October 2019
 email: roy.abraham@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -24,25 +24,26 @@ linkedin_username: royabraham
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name's Roy & I'm a system administrator based in Vancouver, BC.
-  I'm keen on continous improvement & recently went back to school to develop skills in networking, security, automation & cloud-computing. This has added tremendous value to my existing technical & people skills I've gained in previous work & volunteer roles. 
+  Hi! My name is Roy & I'm a system administrator based in Vancouver, BC.
+  I'm always keen on continous improvement & recently went back to school to develop skills in networking, security, automation & cloud-computing. This has added tremendous value to my existing technical & people skills. 
+  
   I will be actively seeking new opportunities in October 2019.
   
 
 
 # Projects Section
 projects_title: Projects
- Test
+ 
 
 
 # Experience Section
 experience_title: Experience
- another
+ 
  
 # Education Section
 educaton_title: Education
 
- testing
+ 
 
 # More Section
 # more_title: A Little More About Me
