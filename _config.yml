@@ -24,20 +24,25 @@ linkedin_username: royabraham
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name's Roy & I'm a system administrator based in Vancouver,BC. I believe in continous improvement & recently went back to school to level up my skillset.
+  Hi! My name's Roy & I'm a system administrator based in Vancouver, BC.
+  I'm keen on continous improvement & recently went back to school to develop skills in networking, security, automation & cloud-computing. This has added tremendous value to my existing technical & people skills I've gained in previous work & volunteer roles. 
   I will be actively seeking new opportunities in October 2019.
   
-   
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projects
+ Test
+
 
 # Experience Section
-# experience_title: Experience
-
+experience_title: Experience
+ another
+ 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
+
+testing
 
 # More Section
 # more_title: A Little More About Me
