@@ -1,6 +1,6 @@
 - name: Learning Projects
-#  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: bcit.ca/study/programs/6920cert
+#  github: sproogen/resume-theme
   quote: >
     BCIT Network Administrator & Security Projects
   description: | # this will include new lines to allow paragraphs
@@ -13,39 +13,32 @@
     - Implemented & an automated hybrid cloud environment with <mark>AWS</mark>.
     
 - name: Commvault Simpana
-#  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: documentation.commvault.com/commvault/v11/article
+#  github: sproogen/resume-theme
   quote: >
     Commvault Simpana System Administration  
   description: | # this will include new lines to allow paragraphs
-    - Created a virtual routed network environment from the ground up using <mark>Oracle VirtualBox</mark>.
-    - Encrypted communication between servers using self-signed certificates.
-    - Implemented & an automated hybrid cloud environment with <mark>AWS</mark>.
+    - Details soon
     
 - name: Mircrosoft Server 
-#  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: docs.microsoft.com/en-us/windows-server/
+#  github: sproogen/resume-theme
   quote: >
     Migrating Windows 2008 Servers to Windows 2016  
   description: | # this will include new lines to allow paragraphs
-    - Created a virtual routed network environment from the ground up using <mark>Oracle VirtualBox</mark>.
-    - Encrypted communication between servers using self-signed certificates.
-    - Installed & configured a virtualized <mark>Windows 2016</mark> / <mark>Centos Linux 7</mark> network for SMB consisting of centralized user authentication, routing & switching infrastructure, SAN and NAS storage back-ends.
-    - Implemented & an automated hybrid cloud environment with <mark>AWS</mark>.
-
+    - Details soon
+    
 - name: Microsoft WSUS 
-#  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus
+#  github: sproogen/resume-theme
   quote: >
     Setting Up & Deploying Windows Security Update Services
   description: | # this will include new lines to allow paragraphs
-    - Created a virtual routed network environment from the ground up using <mark>Oracle VirtualBox</mark>.
-    - Encrypted communication between servers using self-signed certificates.
-    - Installed & configured a virtualized <mark>Windows 2016</mark> / <mark>Centos Linux 7</mark> network for SMB consisting of centralized user authentication, routing & switching infrastructure, SAN and NAS storage back-ends.
-
+    - Details soon
+    
 - name: Self-Learning 
 #  link: github.com/sproogen
-  github: sproogen/resume-theme
+#  github: sproogen/resume-theme
   quote: >
       Current Home Lab environment
   description: | # this will include new lines to allow paragraphs
