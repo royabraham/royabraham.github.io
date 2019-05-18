@@ -1,4 +1,4 @@
-- name: Technical Projects
+- name: Learning Projects
 #  link: github.com/sproogen
   github: sproogen/resume-theme
   quote: >
@@ -8,6 +8,50 @@
     - Encrypted communication between servers using self-signed certificates.
     - Installed & configured a virtualized <mark>Windows 2016</mark> / <mark>Centos Linux 7</mark> network for SMB consisting of centralized user authentication, routing & switching infrastructure, SAN and NAS storage back-ends.
     - Implemented a complete open source messaging solution including SMTP services, webmail, and central user authentication.
-    - Implemented Office 365 with federated authentication through AD Federation Services
-    - Configured scalable and fault tolerant web services with nginx, mongodb & keepalived
-    - Implemented & an automated hybrid cloud environment with <mark>AWS</mark>
+    - Implemented <mark>Office 365</mark> with federated authentication through AD Federation Services.
+    - Configured scalable and fault tolerant web services with <mark>nginx</mark>, <mark>mongodb</mark> & <mark>keepalived</mark>.
+    - Implemented & an automated hybrid cloud environment with <mark>AWS</mark>.
+    
+- name: Commvault Simpana
+#  link: github.com/sproogen
+  github: sproogen/resume-theme
+  quote: >
+    Commvault Simpana System Administration  
+  description: | # this will include new lines to allow paragraphs
+    - Created a virtual routed network environment from the ground up using <mark>Oracle VirtualBox</mark>.
+    - Encrypted communication between servers using self-signed certificates.
+    - Implemented & an automated hybrid cloud environment with <mark>AWS</mark>.
+    
+- name: Mircrosoft Server 
+#  link: github.com/sproogen
+  github: sproogen/resume-theme
+  quote: >
+    Migrating Windows 2008 Servers to Windows 2016  
+  description: | # this will include new lines to allow paragraphs
+    - Created a virtual routed network environment from the ground up using <mark>Oracle VirtualBox</mark>.
+    - Encrypted communication between servers using self-signed certificates.
+    - Installed & configured a virtualized <mark>Windows 2016</mark> / <mark>Centos Linux 7</mark> network for SMB consisting of centralized user authentication, routing & switching infrastructure, SAN and NAS storage back-ends.
+    - Implemented & an automated hybrid cloud environment with <mark>AWS</mark>.
+
+- name: Microsoft WSUS 
+#  link: github.com/sproogen
+  github: sproogen/resume-theme
+  quote: >
+    Setting Up & Deploying Windows Security Update Services
+  description: | # this will include new lines to allow paragraphs
+    - Created a virtual routed network environment from the ground up using <mark>Oracle VirtualBox</mark>.
+    - Encrypted communication between servers using self-signed certificates.
+    - Installed & configured a virtualized <mark>Windows 2016</mark> / <mark>Centos Linux 7</mark> network for SMB consisting of centralized user authentication, routing & switching infrastructure, SAN and NAS storage back-ends.
+
+- name: Self-Learning 
+#  link: github.com/sproogen
+  github: sproogen/resume-theme
+  quote: >
+      Current Home Lab environment
+  description: | # this will include new lines to allow paragraphs
+    - Chapeau Linux 24 machine used as a NAS server. Also, VirtualBox setup with a Centos 7 router & Windows 2016 domain.
+    - Windows 10 machine with Ubuntu 19.04 running on Hyper-V.
+    - Macbook Air running macOS Mojave.
+    
+
+  
