@@ -1,63 +1,55 @@
-- company: Vedeni Services
-  link: vedeni.ca
-  job_title: Professional Freelancer
-  dates: June 2018 - Present
-  quote: >
-   Vedeni Services is the brand I created for billing my freelance clients
-  description: | # this will include new lines to allow paragraphs
-   While back at school, I decided to challenge myself to find freelance work which I could do remotely & with flexible hours. It has been an exciting process to develop these entrepreneurial skills.   
-   It's also helped me improve essential soft-skills like proposal writing, relationship management & project management.
-   
 - company: UBC
   link: it.ubc.ca/services/web-servers-storage/educloud-server-service
   job_title: System Administrator I
   dates: January 2018 - May 2018
   quote: >
-   Details Soon!
+   Member of the Systems team which provides EduCloud, UBC’s suite of private cloud services. These are services which offer resources pooling, server consolidation, regular backups and high availability redundancy.
   description: | # this will include new lines to allow paragraphs
-   Details Soon! 
-   
+
+
 - company: KGHM International
   link: kghm.com/en
   job_title: System Administrator
   dates: October 2015 - December 2017
   quote: >
-   Details Soon!
+   Proactively managed all daily, weekly & monthly backups for 150+ North American servers & 300+ users using Commvault Simpana. Scheduled servers patching and critical & security updates for client machines in North & South America, using Windows Server 2016 WSUS (Windows Server Update Services). Supported & deployed VMware vCenter virtual machines using VMware vSphere Client. Hosts were based at a cloud provider in Kelowna & on premises in Ontario. Communicated directly with vendors & reported directly to the IT Director.
   description: | # this will include new lines to allow paragraphs
-   Details Soon! 
-   
+   -Managed the hardware & software version upgrade for Commvault Simpana from v10 to v11.
+   -Established automated backups for 300+ end-users in North America.
+   -Assisted with the setup & implementation of WSUS to enable automated patching.
+   -Identified Windows 2008 servers in the organization and project managed the migration & upgrade of those servers.
+   -Initiated quarterly IT lunch & learns for end-users to promote Cybersecurity best practises.
+   -Took the initiative to find a charitable not-for-profit to donate $5000 worth of old IT equipment earmarked for disposal, allowing for a tax-deduction benefit.
+
 - company: Lululemon
   link: kghm.com/en
   job_title: Technology Support Specialist
   dates: October 2014 - September 2015
   quote: >
-   Details Soon!
+   Hired for corporate support (techshop) & retail support teams at the headquarters (SSC). Resolved Level 1 & 2 incidents in-person, by phone & through ServiceNow. Deployed patches via SCCM & Jamf to Windows & Mac clients. Resolved remote retail support of POS system & MSSQL databases issues for stores globally.
   description: | # this will include new lines to allow paragraphs
-   Details Soon!
-   
+   -Managed the Cisco VOIP & Video conferencing system.
+   -Volunteered to help with IT onboarding of new employees.
+
 - company: Fortius Institute
   link: fortiussport.com
   job_title: Technical Support Professional
   dates: January 2013 - August 2014
   quote: >
-   Details Soon!
+   Resolved all 1st & 2nd level requests & issues on-site IT support for internal clients through Remedy. Proactively managed printers, Smart TVs and technical equipment on-site. Created & maintained the internal IT documentation & wiki.
   description: | # this will include new lines to allow paragraphs
-   Details Soon!
-   
+   -Owned the Cisco 7900 IP Phone & Video conferencing.
+   -Created an IT knowledge base for end-users to reference.
+   -Initiated regular IT lunch & learn presentations for end-users.
+   -Volunteered to provide 1-on-1 IT training sessions for doctors.
+
 - company: Celebrity Cruises
   link: celebritycruises.com
   job_title: Interactive Services Support
   dates: January 2010 - September 2012
   quote: >
-   Details Soon!
+   Sole onboard administrator for the internal entertainment system. Reported to the Interactive Services Manager based in Miami, Florida. Worked on 5 different ships around the world. Analyzed daily event logs to proactively identify any system issues. Managed 5 servers & 1000+ Mac Mini client devices. Resolved all issues with the client Mac Mini devices. Remotely managed 60+ Smart TVs onboard.
   description: | # this will include new lines to allow paragraphs
-   Details Soon!
-   
-- company: Quartet Service Corporation
-  link: quartetservice.com
-  job_title: On Site Technician
-  dates: August 2007 - December 2009
-  quote: >
-   Details Soon!
-  description: | # this will include new lines to allow paragraphs
-   Details Soon!!
+   -Improved the guest-experience for managing onboard Smart TVs.
+   -Improved the work-flow for performing daily tasks.
+   -Volunteered to help other teams with various responsibilities.

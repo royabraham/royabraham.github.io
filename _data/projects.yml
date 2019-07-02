@@ -1,6 +1,4 @@
-- name: Learning Projects
-  link: bcit.ca/study/programs/6920cert
-#  github: sproogen/resume-theme
+- name: BCIT Learning
   quote: >
     BCIT Network Administrator & Security Projects
   description: | # this will include new lines to allow paragraphs
@@ -10,41 +8,5 @@
     - Implemented a complete open source messaging solution including SMTP services, webmail, and central user authentication.
     - Implemented <mark>Office 365</mark> with federated authentication through AD Federation Services.
     - Configured scalable and fault tolerant web services with <mark>nginx</mark>, <mark>mongodb</mark> & <mark>keepalived</mark>.
-    - Implemented & an automated hybrid cloud environment with <mark>AWS</mark>.
-    
-- name: Commvault Simpana
-  link: documentation.commvault.com/commvault/v11/article
-#  github: sproogen/resume-theme
-  quote: >
-    Commvault Simpana System Administration  
-  description: | # this will include new lines to allow paragraphs
-    - Details soon
-    
-- name: Mircrosoft Server 
-  link: docs.microsoft.com/en-us/windows-server/
-#  github: sproogen/resume-theme
-  quote: >
-    Migrating Windows 2008 Servers to Windows 2016  
-  description: | # this will include new lines to allow paragraphs
-    - Details soon
-    
-- name: Microsoft WSUS 
-  link: docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus
-#  github: sproogen/resume-theme
-  quote: >
-    Setting Up & Deploying Windows Security Update Services
-  description: | # this will include new lines to allow paragraphs
-    - Details soon
-    
-- name: Self-Learning 
-#  link: github.com/sproogen
-#  github: sproogen/resume-theme
-  quote: >
-      Current Home Lab environment
-  description: | # this will include new lines to allow paragraphs
-    - Chapeau Linux 24 machine used as a NAS server. Also, VirtualBox setup with a Centos 7 router & Windows 2016 domain.
-    - Windows 10 machine with Ubuntu 19.04 running on Hyper-V.
-    - Macbook Air running macOS Mojave.
-    
-
-  
+    - Deployed CentOS virtual machines using <mark>Vagrant</mark> & <mark>Ansible</mark> playbooks.
+    - Implemented an automated hybrid cloud environment with <mark>AWS</mark>.

@@ -4,24 +4,38 @@
   quote: >
     British Columbia Institute of Technology, Canada
   description: | # this will include new lines to allow paragraphs
-   I recently went back to school to develop skills in networking, security, automation & cloud-computing.
+   Cloud Services -
+     - Infrastructure as Code with GitHub
+     - Continuous testing with .travis
+     - Ansible & YAML linters
+     - VPC setups, EC2 Security Groups, Key pairs
+     - AWS dynamic inventory
 
-- name: UoA
-  dates: 2000
-  qualification: GradDipCom, Information Systems
-  
-  quote: >
-    University of Auckland, New Zealand
-  description: | # this will include new lines to allow paragraphs
-#   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+   Virtualization -
+     - Physical vCenter & vSphere Setup
+     - Datacenter Configuration
+     - Virtual Host & Storage Creation
+     - VM Network Creation
+     - HA & FT Clustering
+     - Implementing vSAN
+     - Applied Powershell with PowerCLI
+     - Deploying Docker Containers with vSphere
 
-   
-- name: UoA
-  dates: 1997 - 1999
-  qualification: BCom, Operations Management & Marketing
-  
-  quote: >
-     University of Auckland, New Zealand
-  description: | # this will include new lines to allow paragraphs
-#   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+   Security -
+     - Vulnerability Scanning (nmap, zenmap)
+     - Suricata IDS testing
+     - Creating & verifying SHA1 and MD5 hashes
+     - Bitlocker key storage
+     - Disk Encryption
 
+   Windows Server 2016 -
+     - Active Directory Domain services
+     - iSCSI & storage Tiering
+     - Hyper-V, Networking, Failover Clustering
+     - DHCP, DNS, WSUS, WDS, DFS & GPO Management
+
+  Linux | Centos, Ubuntu, Kali -
+    - Python & bash scripting projects
+    - Virtual router creation with iptables, DHCP & DNS
+    - Load-Balancing using nginx
+    - Setting up environments with node.js apps, MongoDB & MariaDB
