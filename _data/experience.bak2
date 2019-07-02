@@ -1,0 +1,68 @@
+- company: Vedeni Services
+  link: vedeni.ca
+  job_title: Professional Freelancer
+  dates: June 2018 - Present
+  quote: >
+   Vedeni Services is the brand I created for billing my freelance clients
+  description: | # this will include new lines to allow paragraphs
+   While back at school, I decided to challenge myself to find freelance work which I could do remotely & with flexible hours. It has been an exciting process to develop these entrepreneurial skills.   It's also helped me improve essential soft-skills like proposal writing, public speaking, relationship management & project management.
+
+- company: UBC
+  link: it.ubc.ca/services/web-servers-storage/educloud-server-service
+  job_title: System Administrator I
+  dates: January 2018 - May 2018
+  quote: >
+   Details Soon!
+  description: | # this will include new lines to allow paragraphs
+   Details Soon! Educloud Services, Vcloud Director, introduction to Linux Servers
+
+- company: KGHM International
+  link: kghm.com/en
+  job_title: System Administrator
+  dates: October 2015 - December 2017
+  quote: >
+   Details Soon!
+  description: | # this will include new lines to allow paragraphs
+   Details Soon!
+
+   Milestones - Crashplan, Commvault Setup & Upgrade, WSUS setup, Windows Server Migration
+   Vmware ESXi kelowna & toronto, Cylance, Nimble Storage, Cisco Unified Communications. Lunch & learn. Exchange
+
+   Donation to Neil Squire Society, arrange tax rebate.
+   Support the move to Ontario, was one of the last. Volunteered Safety team.
+
+- company: Lululemon
+  link: kghm.com/en
+  job_title: Technology Support Specialist
+  dates: October 2014 - September 2015
+  quote: >
+   Details Soon!
+  description: | # this will include new lines to allow paragraphs
+   Details Soon! Cisco, Mac, SCCM, Casper, office 365, jamf. Embraced wellness & continous improvement.
+
+- company: Fortius Institute
+  link: fortiussport.com
+  job_title: Technical Support Professional
+  dates: January 2013 - August 2014
+  quote: >
+   Details Soon!
+  description: | # this will include new lines to allow paragraphs
+   Details Soon! PC, Printer, Smart TV & devices. Cisco, BYOD, technical training. Learned health & fitness.
+
+- company: Celebrity Cruises
+  link: celebritycruises.com
+  job_title: Interactive Services Support
+  dates: January 2010 - September 2012
+  quote: >
+   Details Soon!
+  description: | # this will include new lines to allow paragraphs
+   Details Soon! Hardware, remotely managed mac minis from a central server. Mac Servers, Smart TV management, owned the Customer service experience. Volunteered Photoshop for Smart TVs, Support the local guides tour office, Reporting.
+
+- company: Quartet Service Corporation
+  link: quartetservice.com
+  job_title: On Site Technician
+  dates: August 2007 - December 2009
+  quote: >
+   MSP. Details Soon!
+  description: | # this will include new lines to allow paragraphs
+   Details Soon!! Client relationship management, visits & backups. PC & printer support. Introduced to Mac Support, became the lead. Supporting Remote Server Admins, PC & Server migrations, After-hours, supporting small & medium-sized businesses lawyers, accountants, architects. Volunteered First Aid.
