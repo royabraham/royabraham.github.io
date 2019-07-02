@@ -1,6 +1,6 @@
-- name: BCIT Learning
+- name: BCIT
   quote: >
-    BCIT Network Administrator & Security Projects
+    Network Administrator & Security Projects
   description: | # this will include new lines to allow paragraphs
     - Created a virtual routed network environment from the ground up using <mark>Oracle VirtualBox</mark>.
     - Encrypted communication between servers using self-signed certificates.
