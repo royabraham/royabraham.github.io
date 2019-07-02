@@ -4,37 +4,37 @@
   quote: >
     British Columbia Institute of Technology, Canada
   description: | # this will include new lines to allow paragraphs
-   Cloud Services-
-     -Infrastructure as Code with GitHub
-     -Continuous testing with .travis
-     -Ansible & YAML linters
-     -VPC setups, EC2 Security Groups, Key pairs
-     -AWS dynamic inventory
+   Cloud Services
+    - Infrastructure as Code with GitHub
+    - Continuous testing with .travis
+    - Ansible & YAML linters
+    - VPC setups, EC2 Security Groups, Key pairs
+    - AWS dynamic inventory
 
-   Virtualization-
-     -Physical vCenter & vSphere Setup
-     -Datacenter Configuration
-     -Virtual Host & Storage Creation
-     -VM Network Creation
-     -HA & FT Clustering
-     -Implementing vSAN
-     -Applied Powershell with PowerCLI
-     -Deploying Docker Containers with vSphere
+   Virtualization
+    - Physical vCenter & vSphere Setup
+    - Datacenter Configuration
+    - Virtual Host & Storage Creation
+    - VM Network Creation
+    - HA & FT Clustering
+    - Implementing vSAN
+    - Applied Powershell with PowerCLI
+    - Deploying Docker Containers with vSphere
 
-   Security-
-     -Vulnerability Scanning (nmap, zenmap)
-     -Suricata IDS testing
-     -Creating & verifying SHA1 and MD5 hashes
-     -Bitlocker key storage
-     -Disk Encryption
+   Security
+    - Vulnerability Scanning (nmap, zenmap)
+    - Suricata IDS testing
+    - Creating & verifying SHA1 and MD5 hashes
+    - Bitlocker key storage
+    - Disk Encryption
 
-   Windows Server 2016-
-     -Active Directory Domain services
-     -iSCSI & storage Tiering
-     -Hyper-V, Networking, Failover Clustering
-     -DHCP, DNS, WSUS, WDS, DFS & GPO Management
+   Windows Server 2016
+    - Active Directory Domain services
+    - iSCSI & storage Tiering
+    - Hyper-V, Networking, Failover Clustering
+    - DHCP, DNS, WSUS, WDS, DFS & GPO Management
 
-   Linux | Centos, Ubuntu, Kali -
+   Linux | Centos, Ubuntu, Kali
     - Python & bash scripting projects
     - Virtual router creation with iptables, DHCP & DNS
     - Load-Balancing using nginx
